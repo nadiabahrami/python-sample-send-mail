@@ -1,0 +1,9 @@
+# Secrets
+secrets.sh
+
+# Virtual Envs
+ENV/
+
+# Other files
+.idea/
+__pycache__/
